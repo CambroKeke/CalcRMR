@@ -1,0 +1,7 @@
+{
+  "name": "CalcRMR",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
